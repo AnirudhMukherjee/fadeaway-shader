@@ -1,3 +1,3 @@
 # Fade Away 
 
-![Shader](/screen1.JPG?raw=true "Shader")
+![Shader](/Capture.JPG?raw=true "Shader")
